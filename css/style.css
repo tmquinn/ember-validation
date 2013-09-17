@@ -1,0 +1,16 @@
+/* Put your CSS here */
+html, body {
+    margin: 20px;
+}
+
+.validate-field {
+    margin-top: 40px;
+}
+
+.tooltip-inner {
+    background-color: red;
+}
+
+.tooltip.top .tooltip-arrow {
+    border-top-color: red;
+}
